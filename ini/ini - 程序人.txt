@@ -1,0 +1,5 @@
+corpid=ww4239a83c07569367
+corpsecret=qmNyjQYNyZXg-5Ns3H6Xk9SmDGD9VUPwqpG_c5ZfJ0k
+agentid=1000003
+
+http://localhost:8080/weixinweb/servlet.do?corpid=ww4239a83c07569367&corpsecret=qmNyjQYNyZXg-5Ns3H6Xk9SmDGD9VUPwqpG_c5ZfJ0k&agentid=1000003&content=566666&contentdate=2017
